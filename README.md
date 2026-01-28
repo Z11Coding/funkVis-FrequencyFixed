@@ -4,7 +4,7 @@
 
 On web it uses web browsers' `AnalyzerNode`, and on native it uses a Radix-2 FFT algorithm.
 
-This fork allows for the usage of the function `changeSnd`, which is needed for the audio display to work (credits to Nova-flair Engine for that, it's awesome!)
+This fork allows for the usage of the function `changeSnd`, which is needed for the audio display to work (credits to NovaFlare Engine for that, it's awesome!)
 
 ## Installation
 
