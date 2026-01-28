@@ -4,9 +4,11 @@
 
 On web it uses web browsers' `AnalyzerNode`, and on native it uses a Radix-2 FFT algorithm.
 
+This fork allows for the usage of the function `changeSnd`, which is needed for the audio display to work (credits to Nova-flair Engine for that, it's awesome!)
+
 ## Installation
 
-`haxelib git funkin.vis https://github.com/FunkinCrew/funkVis`
+`haxelib git funkin.vis https://github.com/Z11Coding/funkVis-FrequencyFixed`
 
 ## Usage
 
